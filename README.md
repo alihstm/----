@@ -4,6 +4,8 @@ as well as shop for essential pet supplies and food 🥩.
 
 Visit Here 👉 https://pet-shop-website-icgfw0oew-alihstms-projects.vercel.app
 
+![ShoPet](https://github.com/user-attachments/assets/47d387b9-43be-4de6-a1ca-28a1578aa096)
+
 ## Features ✨
 - Clean and minimalistic UI/UX design.
 - Interactive and dynamic components.
